@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Desarrollador back-end.<br>📚 Especializado en entorno de trabajo Linux.</p>
 
 ###
 
