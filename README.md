@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Desarrollador back-end.<br>📚 Especializado en entorno de trabajo Linux.</p>
+<p align="left">✨ Desarrollador back-end.<br>📚 Tengo experiencia con sistemas operativos basados en Linux.</p>
 
 ###
 
