@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mejorando mis habilidades en arquitectura de microservicios<br>Profundizando en Django REST Framework<br>Aprendiendo sobre CI/CD y DevOps<br>
+Mejorando mis habilidades en arquitectura de microservicios<br>Profundizando en FastAPI REST Framework<br>Aprendiendo sobre CI/CD y DevOps<br>
 
 
 ## 🌐 Socials:
