@@ -1,27 +1,61 @@
-# 💫 About Me:
-Mejorando mis habilidades en arquitectura de microservicios<br>Profundizando en FastAPI REST Framework<br>Aprendiendo sobre CI/CD y DevOps<br>
+# Hola, soy [Tu Nombre] 👋
+## Desarrollador de Software | Mobile & Full Stack
 
+¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear aplicaciones escalables y de alto rendimiento. Me especializo en **Arquitectura de Software** (Clean Architecture), desarrollo móvil con **Flutter** y soluciones backend robustas utilizando **Microservicios**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-gallegos-palafox-848288296) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anthonnyygpz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anthonnyygpz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonnyygpz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anthonnyygpz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anthonnyygpz&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+Actualmente, estoy enfocado en perfeccionar la experiencia de usuario (UX) a través de código limpio y eficiente.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anthonnyygpz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+**Mobile & Frontend**
+* 📱 **Flutter** (BLoC, Clean Architecture)
+* ⚛️ **React** & **React Native**
+* 🚀 **Astro**
+* 🎨 **UX/UI Design** (User Journey Maps)
+
+**Backend & Infraestructura**
+* 🟢 **Node.js** & **Express**
+* 🐘 **PostgreSQL**
+* 🔥 **Firebase**
+* 🐳 **Docker** & **Nginx**
+* 🏗️ **Microservicios**
+
+**Herramientas & Entorno**
+* ⚡ **Neovim** (Configuración personalizada en Lua)
+* 🐧 **Linux**
+* 🔧 **Git**
+
+---
+
+### 🔭 En qué estoy trabajando ahora
+
+* 📱 **Subscription Management App:** Una aplicación móvil desarrollada en **Flutter** bajo los principios de **Clean Architecture**.
+    * *Features:* Gestión de estados con BLoC, interfaces dinámicas (Slidable cards) y consumo de APIs optimizado.
+* 🎮 **Roblox Game Development:** Explorando el desarrollo de videojuegos, scripting en **Lua**, animaciones y sistemas de cámara personalizados.
+
+---
+
+### 📚 Aprendizaje Continuo
+
+Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en:
+* 🧮 **Cálculo Multivariable** (Matemáticas aplicadas).
+* 🇬🇧 **Inglés** (Nivel B2 - Conversacional y Técnico).
+* 🏗️ **Patrones de Diseño Avanzados** para microservicios.
+
+---
+
+### ⚡ Un poco más sobre mí
+
+> "El código limpio no es solo sobre hacer que funcione, es sobre hacer que perdure."
+
+* 👨‍💻 **Editor:** Soy usuario de **Neovim**. Me encanta optimizar mi flujo de trabajo con `autocmds` y scripts en Lua.
+* 📫 **Contáctame:** [Tu Correo Electrónico] | [Tu LinkedIn]
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
