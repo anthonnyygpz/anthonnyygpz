@@ -52,7 +52,7 @@ Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en
 
 * 👨‍💻 **Editor:** Soy usuario de **Neovim**. Me encanta optimizar mi flujo de trabajo con `autocmds` y scripts en Lua.
 * 📫 **Contáctame:** 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anthonyygpz@gmail.com) | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/antonio-gallegos-palafox-848288296)
+[![anthonyygpz@gmail.com](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anthonyygpz@gmail.com) | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/antonio-gallegos-palafox-848288296)
 
 ---
 
