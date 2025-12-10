@@ -51,7 +51,8 @@ Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en
 > "El código limpio no es solo sobre hacer que funcione, es sobre hacer que perdure."
 
 * 👨‍💻 **Editor:** Soy usuario de **Neovim**. Me encanta optimizar mi flujo de trabajo con `autocmds` y scripts en Lua.
-* 📫 **Contáctame:** [![Email Badge](img.shields.io)](mailto:anthonyygpz@gmail.com) | [![LinkedIn Badge](img.shields.io)](www.linkedin.com/in/antonio-gallegos-palafox-848288296)   
+* 📫 **Contáctame:** 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anthonyygpz@gmail.com) | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/antonio-gallegos-palafox-848288296)
 
 ---
 
