@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Antonio Gallegos 👋
 ## Desarrollador de Software | Mobile & Full Stack
 
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear aplicaciones escalables y de alto rendimiento. Me especializo en **Arquitectura de Software** (Clean Architecture), desarrollo móvil con **Flutter** y soluciones backend robustas utilizando **Microservicios**.
@@ -19,7 +19,7 @@ Actualmente, estoy enfocado en perfeccionar la experiencia de usuario (UX) a tra
 * 🟢 **Node.js** & **Express**
 * 🐘 **PostgreSQL**
 * 🔥 **Firebase**
-* 🐳 **Docker** & **Nginx**
+* 🐳 **Docker**
 * 🏗️ **Microservicios**
 
 **Herramientas & Entorno**
@@ -51,11 +51,11 @@ Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en
 > "El código limpio no es solo sobre hacer que funcione, es sobre hacer que perdure."
 
 * 👨‍💻 **Editor:** Soy usuario de **Neovim**. Me encanta optimizar mi flujo de trabajo con `autocmds` y scripts en Lua.
-* 📫 **Contáctame:** [Tu Correo Electrónico] | [Tu LinkedIn]
+* 📫 **Contáctame:** [![Email Badge](img.shields.io)](mailto:anthonyygpz@gmail.com) | [![LinkedIn Badge](img.shields.io)](www.linkedin.com/in/antonio-gallegos-palafox-848288296)   
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anthonnyygpz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonnyygpz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
