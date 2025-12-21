@@ -33,15 +33,14 @@ Actualmente, estoy enfocado en perfeccionar la experiencia de usuario (UX) a tra
 
 * 📱 **Subscription Management App:** Una aplicación móvil desarrollada en **Flutter** bajo los principios de **Clean Architecture**.
     * *Features:* Gestión de estados con BLoC, interfaces dinámicas (Slidable cards) y consumo de APIs optimizado.
-* 🎮 **Roblox Game Development:** Explorando el desarrollo de videojuegos, scripting en **Lua**, animaciones y sistemas de cámara personalizados.
+* 🎮 **Unity Game Development:** Explorando el desarrollo de videojuegos, scripting en **CSharp**, animaciones y sistema de escenarios.
 
 ---
 
 ### 📚 Aprendizaje Continuo
 
 Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en:
-* 🧮 **Cálculo Multivariable** (Matemáticas aplicadas).
-* 🇬🇧 **Inglés** (Nivel B2 - Conversacional y Técnico).
+* 🇬🇧 **Inglés** (Nivel A2 - Conversacional y Técnico).
 * 🏗️ **Patrones de Diseño Avanzados** para microservicios.
 
 ---
@@ -54,9 +53,4 @@ Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en
 * 📫 **Contáctame:** 
 [![anthonyygpz@gmail.com](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anthonyygpz@gmail.com) anthonyygpz@gmail.com | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/antonio-gallegos-palafox-848288296)
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonnyygpz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonnyygpz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
