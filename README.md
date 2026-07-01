@@ -1,8 +1,9 @@
 <div align="center">
 
-# `antonio@cachyos:~$`
+# `antonio@archlinux:~$`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=C9C9C9&background=0D0C10&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Estudiante+de+Ingenier%C3%ADa+en+Software;Clean+Architecture%2C+obsessively;Arquitectura+limpia%2C+obsesivamente;Linux+ricer+on+the+side;Ricer+de+Linux+en+mis+ratos+libres" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=C9C9C9&background=0D0C10&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Estudiante+de+Ingeniería+en+Software;Clean+Architecture,+obsessively;Arquitectura+limpia,+obsesivamente;Breaking+Arch+for+fun;Rompiendo+Arch+por+gusto" alt="typing banner" />
+
 
 </div>
 
