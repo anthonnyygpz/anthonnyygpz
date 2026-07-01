@@ -35,7 +35,7 @@ drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
 ### `$ cat stack.yml`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,mysql,supabase,linux,git,csharp&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,lua,cs,mysql,supabase,sqlite,linux,git&theme=dark" alt="tech stack" />
 </p>
 
 <br>
@@ -53,10 +53,7 @@ Focus    Clean Architecture, pixel-perfect UI
 
 ### `$ curl stats.antonio.dev`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anthonnyygpz&show_icons=true&hide_border=true&bg_color=0D0C10&title_color=8A2828&icon_color=8A2828&text_color=C9C9C9" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonnyygpz&hide_border=true&layout=compact&bg_color=0D0C10&title_color=8A2828&text_color=C9C9C9" alt="top languages" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anthonnyygpz&custom_title=My%20Stats&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=anthonnyygpz&custom_title=My%20Stats&include_all_commits=true&theme=github_dark)
 
 <br>
 
