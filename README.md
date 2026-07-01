@@ -35,21 +35,18 @@ drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
 ### `$ cat stack.yml`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,mysql,supabase,linux,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,mysql,supabase,linux,git,csharp&theme=dark" alt="tech stack" />
 </p>
 
 <br>
 
-### `$ neofetch`
+### `$ fastfetch`
 
 ```
-OS       CachyOS x86_64
+OS       Arch Linux x86_64
 WM       Hyprland
-GPU      RTX 2050
-Displays 2 · dual monitor
 Shell    nvim + starship + kitty
-Focus    Clean Architecture, D-pad nav, pixel-perfect UI
-Status   ricing when I should be shipping
+Focus    Clean Architecture, pixel-perfect UI
 ```
 
 <br>
@@ -57,8 +54,8 @@ Status   ricing when I should be shipping
 ### `$ curl stats.antonio.dev`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0C10&title_color=8A2828&icon_color=8A2828&text_color=C9C9C9" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&hide_border=true&layout=compact&bg_color=0D0C10&title_color=8A2828&text_color=C9C9C9" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anthonnyygpz&show_icons=true&hide_border=true&bg_color=0D0C10&title_color=8A2828&icon_color=8A2828&text_color=C9C9C9" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonnyygpz&hide_border=true&layout=compact&bg_color=0D0C10&title_color=8A2828&text_color=C9C9C9" alt="top languages" />
 </p>
 
 <br>
@@ -66,11 +63,8 @@ Status   ricing when I should be shipping
 ### `$ cat contact.txt`
 
 <p align="center">
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/-Email-8A2828?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-8A2828?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-8A2828?style=flat-square&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:anthonyygpz@gmail.com"><img src="https://img.shields.io/badge/-Email-8A2828?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="www.linkedin.com/in/antonio-gallegos-palafox-848288296"><img src="https://img.shields.io/badge/-LinkedIn-8A2828?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://portafolio.anthonyygpz.workers.dev/"><img src="https://img.shields.io/badge/-Portfolio-8A2828?style=flat-square&logoColor=white" alt="portfolio" /></a>
 </p>
 
-<div align="center">
-<sub>built with too much attention to detail</sub>
-</div>
