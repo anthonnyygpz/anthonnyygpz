@@ -1,56 +1,76 @@
-# Hola, soy Antonio Gallegos 👋
-## Desarrollador de Software | Mobile & Full Stack
+<div align="center">
 
-¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear aplicaciones escalables y de alto rendimiento. Me especializo en **Arquitectura de Software** (Clean Architecture), desarrollo móvil con **Flutter** y soluciones backend robustas utilizando **Microservicios**.
+# `antonio@cachyos:~$`
 
-Actualmente, estoy enfocado en perfeccionar la experiencia de usuario (UX) a través de código limpio y eficiente.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=C9C9C9&background=0D0C10&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Estudiante+de+Ingenier%C3%ADa+en+Software;Clean+Architecture%2C+obsessively;Arquitectura+limpia%2C+obsesivamente;Linux+ricer+on+the+side;Ricer+de+Linux+en+mis+ratos+libres" alt="typing banner" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br>
 
-**Mobile & Frontend**
-* 📱 **Flutter** (BLoC, Clean Architecture)
-* ⚛️ **React** & **React Native**
-* 🚀 **Astro**
-* 🎨 **UX/UI Design** (User Journey Maps)
+### `$ cat about.md`
 
-**Backend & Infraestructura**
-* 🟢 **Node.js** & **Express**
-* 🐘 **PostgreSQL**
-* 🔥 **Firebase**
-* 🐳 **Docker**
-* 🏗️ **Microservicios**
+I'm Antonio — a software engineering student who spends as much time getting the architecture right as getting the pixels right. Clean Architecture, Riverpod, and a terminal that looks better than it needs to.
 
-**Herramientas & Entorno**
-* ⚡ **Neovim** (Configuración personalizada en Lua)
-* 🐧 **Linux**
-* 🔧 **Git**
+<details>
+<summary>🇲🇽 leer en español</summary>
+<br>
 
----
+Soy Antonio — estudiante de ingeniería en software que le dedica el mismo cuidado a la arquitectura que a los píxeles. Clean Architecture, Riverpod, y una terminal que se ve mejor de lo necesario.
 
-### 🔭 En qué estoy trabajando ahora
+</details>
 
-* 📱 **Subscription Management App:** Una aplicación móvil desarrollada en **Flutter** bajo los principios de **Clean Architecture**.
-    * *Features:* Gestión de estados con BLoC, interfaces dinámicas (Slidable cards) y consumo de APIs optimizado.
-* 🎮 **Unity Game Development:** Explorando el desarrollo de videojuegos, scripting en **CSharp**, animaciones y sistema de escenarios.
+<br>
 
----
+### `$ ls ~/currently-building`
 
-### 📚 Aprendizaje Continuo
+```
+drwxr-xr-x  game_tv/       Flutter · Android TV · Clean Architecture
+drwxr-xr-x  shiftflow/     Next.js · Supabase · shift-scheduling engine
+drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
+```
 
-Me gusta mantenerme en constante aprendizaje. Actualmente estoy profundizando en:
-* 🇬🇧 **Inglés** (Nivel A2 - Conversacional y Técnico).
-* 🏗️ **Patrones de Diseño Avanzados** para microservicios.
+<br>
 
----
+### `$ cat stack.yml`
 
-### ⚡ Un poco más sobre mí
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,mysql,supabase,linux,git&theme=dark" alt="tech stack" />
+</p>
 
-> "El código limpio no es solo sobre hacer que funcione, es sobre hacer que perdure."
+<br>
 
-* 👨‍💻 **Editor:** Soy usuario de **Neovim**. Me encanta optimizar mi flujo de trabajo con `autocmds` y scripts en Lua.
-* 📫 **Contáctame:** 
-[![anthonyygpz@gmail.com](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anthonyygpz@gmail.com) anthonyygpz@gmail.com | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/antonio-gallegos-palafox-848288296)
+### `$ neofetch`
 
+```
+OS       CachyOS x86_64
+WM       Hyprland
+GPU      RTX 2050
+Displays 2 · dual monitor
+Shell    nvim + starship + kitty
+Focus    Clean Architecture, D-pad nav, pixel-perfect UI
+Status   ricing when I should be shipping
+```
 
+<br>
+
+### `$ curl stats.antonio.dev`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0C10&title_color=8A2828&icon_color=8A2828&text_color=C9C9C9" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&hide_border=true&layout=compact&bg_color=0D0C10&title_color=8A2828&text_color=C9C9C9" alt="top languages" />
+</p>
+
+<br>
+
+### `$ cat contact.txt`
+
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/-Email-8A2828?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-8A2828?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-8A2828?style=flat-square&logoColor=white" alt="portfolio" /></a>
+</p>
+
+<div align="center">
+<sub>built with too much attention to detail</sub>
+</div>
