@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=C9C9C9&background=0D0C10&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Estudiante+de+Ingeniería+en+Software;Clean+Architecture,+obsessively;Arquitectura+limpia,+obsesivamente;Breaking+Arch+for+fun;Rompiendo+Arch+por+gusto" alt="typing banner" />
 
-
 </div>
 
 <br>
@@ -26,7 +25,7 @@ Soy Antonio — estudiante de ingeniería en software que le dedica el mismo cui
 ### `$ ls ~/currently-building`
 
 ```
-drwxr-xr-x  game_tv/       Flutter · Android TV · Clean Architecture
+drwxr-xr-x  MecanicCar/    Tauri · Rust · React(Typescript)
 drwxr-xr-x  shiftflow/     Next.js · Supabase · shift-scheduling engine
 drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
 ```
@@ -36,7 +35,7 @@ drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
 ### `$ cat stack.yml`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,lua,cs,mysql,supabase,sqlite,linux,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,lua,cs,mysql,supabase,sqlite,linux,rust,git&theme=dark" alt="tech stack" />
 </p>
 
 <br>
@@ -65,4 +64,3 @@ Focus    Clean Architecture, pixel-perfect UI
   <a href="www.linkedin.com/in/antonio-gallegos-palafox-848288296"><img src="https://img.shields.io/badge/-LinkedIn-8A2828?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://portafolio.anthonyygpz.workers.dev/"><img src="https://img.shields.io/badge/-Portfolio-8A2828?style=flat-square&logoColor=white" alt="portfolio" /></a>
 </p>
-
