@@ -35,7 +35,7 @@ drwxr-xr-x  portfolio/     Astro · Framer Motion · still pixel-pushing
 ### `$ cat stack.yml`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,lua,cs,mysql,supabase,sqlite,linux,rust,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,astro,python,lua,cs,rust,mysql,supabase,sqlite,linux,git&theme=dark" alt="tech stack" />
 </p>
 
 <br>
